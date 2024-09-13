@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 st.markdown(page_bg_style, unsafe_allow_html=True)
 
 # Paths for the model files
-movie_list_path = 'C:/Users/merlin.f_servify/moviereconnedersystem/pythonProject2/model/movie_list.pkl'
+movie_list_path = 'model/movie_list.pkl'
 similarity_path = 'C:/Users/merlin.f_servify/moviereconnedersystem/pythonProject2/model/similarity.pkl'
 
 # TMDb API key
